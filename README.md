@@ -40,9 +40,26 @@ Dette kan være et image-, link- eller meta-tag. Det håndgribelige indhold i fo
 <img src="/assets/media/profile.png">
 ```
 
+## Kort om semantisk opbygning i HTML
+
+Semantisk HTML betyder, at man bruger de HTML-tags, der bedst beskriver det indhold, man vil vise, i stedet for blot at bruge generelle containere som `<div>` eller `<span>`. Det gør din kode:
+
+- Mere læsbar og forståelig for andre udviklere.
+- Bedre for søgemaskiner (SEO).
+- Bedre for skærmlæsere og andre hjælpemidler (tilgængelighed).
+- Lettere at vedligeholde.
+
+### Eksempler på semantiske tags
+
+- Brug `<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<footer>` til at opdele din side i meningsfulde sektioner.
+- Brug `<strong>` og `<em>` til at vise, hvilken tekst der er vigtig eller betonet.
+- Brug `<table>` til tabulære data, i stedet for at lave en masse `<div>`-rækker.
+
+
 ## Opgave
 
-Du skal nu lave et HTML dokument, som viser, at du behersker den overordnede HTML-struktur.
+Du skal nu lave et HTML dokument, som viser, at du behersker den overordnede HTML-struktur. Brug **semantisk** opmærkning når det er muligt 
+
 
 * Opret en fil i dette repository, som du kalder `index.html`
 * Filen skal indeholde:
