@@ -1,6 +1,8 @@
+<style>
+	#main {user-select: none;}
+</style>
 
-
-<div id="main style=`{user-select: none}`>
+<div id="main>
 # HTML Bootcamp #1
 
 HTML er en fantastisk måde at præsentere tekst, billeder og video på.
