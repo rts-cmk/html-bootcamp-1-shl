@@ -39,6 +39,32 @@ Dette kan være et image-, link- eller meta-tag. Det håndgribelige indhold i fo
 ```html
 <img src="/assets/media/profile.png">
 ```
+## Eksempler på forskellige HTML-tags til din opgave
+
+| Tag            | Beskrivelse                                             | Eksempel                                                    |
+|----------------|---------------------------------------------------------|-------------------------------------------------------------|
+| `<h1>` – `<h6>` | Overskrifter i forskellig hierarkisk niveau             | `<h1>Dette er en hovedoverskrift</h1>`                      |
+| `<p>`          | Afsnit med tekst                                        | `<p>Dette er et tekstafsnit.</p>`                            |
+| `<a>`          | Link (anker)                                           | `<a href="https://example.com">Besøg eksempel</a>`          |
+| `<img>`        | Billede                                               | `<img src="https://placehold.co/150x100" alt="Placeholder">`|
+| `<ul>`         | Unordineret liste                                     | `<ul><li>Punkt 1</li><li>Punkt 2</li></ul>`                 |
+| `<ol>`         | Ordineret liste                                      | `<ol><li>Første</li><li>Anden</li></ol>`                     |
+| `<li>`         | Listeelement (bruges i `<ul>` og `<ol>`)               | Som ovenfor                                                 |
+| `<strong>`     | Fremhævet tekst med betydning (typisk fed)             | `<strong>Vigtig tekst</strong>`                              |
+| `<em>`         | Fremhævet tekst med betoning (typisk kursiv)           | `<em>Fremhævet tekst</em>`                                  |
+| `<header>`     | Semantisk container for side- eller sektionoverskrift  | `<header><h1>Min side</h1></header>`                         |
+| `<nav>`        | Navigationselement med links                            | `<nav><a href="/">Hjem</a> <a href="/kontakt">Kontakt</a></nav>` |
+| `<section>`    | Semantisk sektion med relateret indhold                 | `<section><h2>Om os</h2><p>Information...</p></section>`    |
+| `<article>`    | Selvstændigt indhold som fx blogpost, nyhed, osv.       | `<article><h2>Nyhed</h2><p>...</p></article>`                |
+| `<footer>`     | Sidefod eller sektionens bund                            | `<footer>Copyright 2025</footer>`                            |
+| `<div>`        | Generel container (ikke-semantisk)                      | `<div class="container">Indhold</div>`                       |
+| `<span>`       | Inline container (ikke-semantisk)                        | `<span style="color:red;">Rød tekst</span>`                  |
+| `<form>`       | Formular til brugerinput                                 | `<form><input type="text"><button>Send</button></form>`     |
+| `<input>`      | Inputfelt i formular                                    | Som ovenfor                                                |
+| `<button>`     | Klikbar knap                                           | Som ovenfor                                                |
+| `<table>`      | Tabel                                                  | `<table><tr><th>Navn</th><th>Alder</th></tr><tr><td>Anna</td><td>30</td></tr></table>` |
+| `<blockquote>` | Citatblok                                              | `<blockquote>Dette er et citat.</blockquote>`                |
+
 
 ## Kort om semantisk opbygning i HTML
 
