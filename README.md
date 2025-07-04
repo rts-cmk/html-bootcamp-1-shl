@@ -1,8 +1,4 @@
-<style>
-	#main {user-select: none;}
-</style>
 
-<div id="main>
 # HTML Bootcamp #1
 
 HTML er en fantastisk måde at præsentere tekst, billeder og video på.
@@ -123,4 +119,3 @@ Du skal ikke style dit dokument.
 ## Aflevering
 
 Din aflevering foregår via GitHub. Du skal lave en pull-request fra dit eget repository til det repository, du har klonet fra.
-</div>
