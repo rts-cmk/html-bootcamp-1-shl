@@ -116,6 +116,3 @@ Du skal ikke style dit dokument.
 | **Stocksnap.io**    | Stort udvalg af stockbilleder, alt gratis og uden copyright.                                               | [stocksnap.io](https://stocksnap.io)           |
 | **Kaboompics**      | Gratis billeder med fokus på livsstil, interiør og farvepaletter.                                          | [kaboompics.com](https://kaboompics.com)       |
 
-## Aflevering
-
-Din aflevering foregår via GitHub. Du skal lave en pull-request fra dit eget repository til det repository, du har klonet fra.
